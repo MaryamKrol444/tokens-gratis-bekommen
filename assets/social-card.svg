@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Stripchat Tokens – verständlich und sicher erklärt</title>
+  <desc id="desc">Dunkle violette Grafik für einen unabhängigen Ratgeber zu Tokens, Preisen und Sicherheit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100c19"/>
+      <stop offset="0.55" stop-color="#151021"/>
+      <stop offset="1" stop-color="#0b0911"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="83%" cy="26%" r="60%">
+      <stop offset="0" stop-color="#8059d7" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#8059d7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d5c4ff"/>
+      <stop offset="0.48" stop-color="#a586f4"/>
+      <stop offset="1" stop-color="#6547b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#c3a8ff" stroke-opacity="0.12">
+    <ellipse cx="930" cy="280" rx="285" ry="195" stroke-width="2"/>
+    <ellipse cx="930" cy="280" rx="335" ry="235" stroke-width="2"/>
+    <ellipse cx="930" cy="280" rx="385" ry="275" stroke-width="2"/>
+  </g>
+  <g transform="translate(860 138)">
+    <circle cx="150" cy="145" r="115" fill="#241b36" stroke="#c1a8ff" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="150" cy="145" r="92" fill="url(#coin)"/>
+    <circle cx="150" cy="145" r="75" fill="none" stroke="#f4edff" stroke-opacity="0.42" stroke-width="2"/>
+    <path d="M139 97h28c18 0 30 11 30 27 0 12-7 21-18 25l25 43h-30l-21-39h-7v39h-25V97h18zm7 20v18h18c6 0 10-3 10-9s-4-9-10-9h-18z" fill="#171022" opacity="0.88"/>
+    <circle cx="292" cy="42" r="10" fill="#d5c4ff"/>
+    <circle cx="24" cy="240" r="7" fill="#ae91ff"/>
+  </g>
+  <rect x="74" y="72" width="220" height="42" rx="21" fill="#b89cff" fill-opacity="0.12" stroke="#cbb9ff" stroke-opacity="0.35"/>
+  <circle cx="99" cy="93" r="6" fill="#c7aeff"/>
+  <text x="118" y="100" fill="#d7c8ff" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">TOKENKOMPASS</text>
+  <text x="74" y="243" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Stripchat Tokens</text>
+  <text x="74" y="312" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">verständlich &amp; sicher erklärt</text>
+  <text x="78" y="380" fill="#d4ccdf" font-family="Arial, sans-serif" font-size="23">Gratis-Angebote · Preise · Kontoschutz</text>
+  <rect x="74" y="450" width="238" height="3" rx="1.5" fill="#b79aff"/>
+  <text x="74" y="503" fill="#a99fb8" font-family="Arial, sans-serif" font-size="19">Unabhängiger Ratgeber · Datenstand 13.10.2026</text>
+</svg>
